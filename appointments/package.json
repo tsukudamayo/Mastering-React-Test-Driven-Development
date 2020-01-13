@@ -1,0 +1,14 @@
+{
+  "name": "appointments",
+  "version": "0.0.1",
+  "description": "Appointments System.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
